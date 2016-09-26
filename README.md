@@ -5,7 +5,9 @@ Illuminate database - https://github.com/illuminate/database <br>
 
 # Installation
 
-<code>composer install</code>
+<code>composer install</code><br>
+
+change baseurl in <code>bootstrap/app.php</code> line 8
 
 <table>
   <tr>
