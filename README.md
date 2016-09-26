@@ -21,7 +21,7 @@ change baseurl in <code>bootstrap/app.php</code> line 8
     <tr>
       <td>POST</td>
       <td><code>api/generate</code></td>
-      <td>shorten url (parameter name: <code>url</code> </td>
+      <td>shorten url (parameter name: <code>url</code> )</td>
     </tr>
   </tbody>
 </table>
