@@ -1,5 +1,4 @@
-# Slim-3-MVC-skeleton
-URL shortener using PHP Slim 3 framework <br>
+# URL shortener using PHP Slim 3 framework<br>
 Slim 3 framework - http://www.slimframework.com/ <br>
 Illuminate database - https://github.com/illuminate/database <br>
 
