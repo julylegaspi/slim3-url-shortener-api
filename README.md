@@ -7,3 +7,20 @@ Illuminate database - https://github.com/illuminate/database <br>
 
 <code>composer install</code>
 
+<table>
+  <tr>
+    <thead>
+      <th>Method</th>
+      <th>URL</th>
+      <th>Action</th>
+    </thead>
+  </tr>
+  <tbody>
+    <tr>
+      <td>POST</td>
+      <td><code>api/generate</code></td>
+      <td>shorten url (parameter name: <code>url</code> </td>
+    </tr>
+  </tbody>
+</table>
+
